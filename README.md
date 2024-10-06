@@ -15,5 +15,5 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=DaviLanna&theme=dark&locale=pt_BR&card_width=400" alt="GitHub Streak" />
   </a>
 </div>
-a
+
 ![](https://komarev.com/ghpvc/?username=DaviLanna)
