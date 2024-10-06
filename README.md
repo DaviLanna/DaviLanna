@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**DaviLanna/DaviLanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <a href="https://github.com/DaviLanna/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=DaviLanna&show_icons=true&locale=pt-BR&theme=dark&rank_icon=github" alt="GitHub Stats" height="195" />
+  </a>
 
-Here are some ideas to get you started:
+  <a href="https://github.com/DaviLanna/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviLanna&langs_count=8&theme=dark&locale=pt-BR" alt="Top Languages" height="195" />
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaviLanna&theme=dark&locale=pt_BR&card_width=500" alt="GitHub Streak" />
+  </a>
+</div>
