@@ -1,8 +1,6 @@
-<h1 align="center">Olá! Eu sou o Davi 👋</h1>
-
 <p align="center">
-  <i>Desenvolvedor apaixonado por tecnologia, café e boas ideias ☕💡</i><br>
-  <i>Estudante de Ciência da Computação | Projetos com Java, C/C++, Web e IA</i>
+  <i>Estudante louco por tecnologia, café e boas ideias ☕💡</i><br>
+  <i>Estudante de Ciência da Computação | Projetos com Java, Python, C/C++, Web e IA</i>
 </p>
 
 ---
@@ -10,7 +8,7 @@
 ### 🚀 Sobre mim
 
 - 🎓 Atualmente cursando **Ciência da Computação**
-- 💻 Gosto de trabalhar com **Java, C++ e Web**
+- 💻 Gosto de trabalhar com **Java, Python e Web**
 - 🧠 Sempre aprendendo sobre **IA, automação e desenvolvimento de jogos**
 
 ---
@@ -30,19 +28,10 @@
 
 ---
 
-### 📊 Estatísticas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=davilanna&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davilanna&layout=compact&theme=radical" height="180"/>
-</div>
-
----
-
 ### 🌐 Conecte-se comigo!
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/davi-gon%C3%A7alves-ayres-lanna-91a207328/" target="_blank">
+  <a href="www.linkedin.com/in/davilanna" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:davi.ayreslanna@gmail.com">
