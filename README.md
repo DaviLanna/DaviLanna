@@ -9,7 +9,7 @@
 
 - 🎓 Atualmente cursando **Ciência da Computação**
 - 💻 Gosto de trabalhar com **Java, Python e Web**
-- 🧠 Sempre aprendendo sobre **IA, automação e desenvolvimento de jogos**
+- 🧠 Sempre aprendendo sobre **IA, automação e outros**!
 
 ---
 
