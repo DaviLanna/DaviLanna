@@ -1,6 +1,5 @@
 <p align="center">
-  <i>Estudante louco por tecnologia, café e boas ideias ☕💡</i><br>
-  <i>Estudante de Ciência da Computação | Projetos com Java, Python, C/C++, Web e IA</i>
+  <i></i>
 </p>
 
 ---
